@@ -10,7 +10,7 @@
 ## 🚀 Features
 
 - 🔐 Securely input your Cloudflare API Token and Account ID
-- 🧠 Choose from supported **Workers AI models**
+- 🧠 Choose from supported **[Workers AI models](https://developers.cloudflare.com/workers-ai/models/)**
 - 📊 Automatically calculate and monitor **neuron usage** (10,000 free/day)
 - 💬 **Text Generation** with Llama 3.1
 - 🎨 **Text-to-Image** with DreamShaper 8
