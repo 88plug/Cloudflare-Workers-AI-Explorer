@@ -19,7 +19,6 @@
 - 🌐 **Language Translation** (M2M100)
 - 🧠 **Text & Image Classification**
 - ✂️ **Text Summarization**
-- ⚡ 100% Streamlit-native, with **modern sidebar navigation** and no custom CSS
 
 ---
 
