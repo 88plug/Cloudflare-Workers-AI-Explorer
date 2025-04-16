@@ -1,4 +1,4 @@
-# ⚡ Cloudflare Workers AI Explorer
+# ⚡ Cloudflare Free Workers AI Explorer
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-orange)
